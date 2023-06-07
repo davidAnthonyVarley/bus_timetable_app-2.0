@@ -1,0 +1,69 @@
+/* @charset "ISO-8859-1"; */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+
+html {
+    font-family: Arial;
+    color: black;
+    background-color: rgb(190, 186, 186);
+}
+
+
+body {
+    font-family: "Roboto", sans-serif;
+
+    min-height: 100vh;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 3vw;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+
+    background-color: rgb(117, 197, 117);
+
+}
+
+main {
+    background-color: rgb(208, 207, 207);
+}
+
+h1 {
+    background-color: rgb(208, 207, 207);
+    font-family: "Roboto", sans-serif;
+    text-align: center;
+    font-weight: bolder;
+
+}
+
+summary {
+    font-family: "Roboto", sans-serif;
+    font-size: 1.5rem;
+    border: 2px outset black;
+    padding: 1.5rem;
+    font-weight: bold;
+}
+
+form {
+	text-align: center;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    border: 2px dashed black;
+    padding: 1.5rem;
+}
+
+.information {
+	border: 1px outset black;
+    background-color: whitesmoke;
+    color: black;
+
+}
+
+.information h2 {
+    font-weight: bold;
+}
+

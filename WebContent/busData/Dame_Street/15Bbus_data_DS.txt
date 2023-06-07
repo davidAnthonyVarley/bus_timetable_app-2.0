@@ -1,0 +1,72 @@
+Bus	15B 
+Stocking Ave	9:22 AM
+Bus	15B 
+Stocking Ave	9:53 AM
+Bus	15B 
+Stocking Ave	10:23 AM
+Bus	15B 
+Stocking Ave	10:53 AM
+Bus	15B 
+Stocking Ave	11:23 AM
+Bus	15B 
+Stocking Ave	11:55 AM
+Bus	15B 
+Stocking Ave	12:15 PM
+Bus	15B 
+Stocking Ave	12:35 PM
+Bus	15B 
+Stocking Ave	12:55 PM
+Bus	15B 
+Stocking Ave	1:15 PM
+Bus	15B 
+Stocking Ave	1:35 PM
+Bus	15B 
+Stocking Ave	1:55 PM
+Bus	15B 
+Stocking Ave	2:15 PM
+Bus	15B 
+Stocking Ave	2:35 PM
+Bus	15B 
+Stocking Ave	2:56 PM
+Bus	15B 
+Stocking Ave	3:16 PM
+Bus	15B 
+Stocking Ave	3:36 PM
+Bus	15B 
+Stocking Ave	3:55 PM
+Bus	15B 
+Stocking Ave	4:15 PM
+Bus	15B 
+Stocking Ave	4:35 PM
+Bus	15B 
+Stocking Ave	4:56 PM
+Bus	15B 
+Stocking Ave	5:16 PM
+Bus	15B 
+Stocking Ave	5:36 PM
+Bus	15B 
+Stocking Ave	5:56 PM
+Bus	15B 
+Stocking Ave	6:16 PM
+Bus	15B 
+Stocking Ave	6:36 PM
+Bus	15B 
+Stocking Ave	6:55 PM
+Bus	15B 
+Stocking Ave	7:25 PM
+Bus	15B 
+Stocking Ave	7:55 PM
+Bus	15B 
+Stocking Ave	8:25 PM
+Bus	15B 
+Stocking Ave	8:53 PM
+Bus	15B 
+Stocking Ave	9:23 PM
+Bus	15B 
+Stocking Ave	9:53 PM
+Bus	15B 
+Stocking Ave	10:23 PM
+Bus	15B 
+Stocking Ave	10:53 PM
+Bus	15B 
+Stocking Ave	11:23 PM

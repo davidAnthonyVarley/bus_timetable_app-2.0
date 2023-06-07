@@ -1,0 +1,152 @@
+Bus	15 
+Ballycullen Road	12:04 AM
+Bus	15 
+Ballycullen Road	12:19 AM
+Bus	15 
+Ballycullen Road	12:34 AM
+Bus	15 
+Ballycullen Road	1:00 AM
+Bus	15 
+Ballycullen Road	1:30 AM
+Bus	15 
+Ballycullen Road	2:00 AM
+Bus	15 
+Ballycullen Road	2:30 AM
+Bus	15 
+Ballycullen Road	3:00 AM
+Bus	15 
+Ballycullen Road	3:30 AM
+Bus	15 
+Ballycullen Road	3:56 AM
+Bus	15 
+Ballycullen Road	4:26 AM
+Bus	15 
+Ballycullen Road	4:56 AM
+Bus	15 
+Ballycullen Road	5:23 AM
+Bus	15 
+Ballycullen Road	6:01 AM
+Bus	15 
+Ballycullen Road	6:31 AM
+Bus	15 
+Ballycullen Road	7:04 AM
+Bus	15 
+Ballycullen Road	7:34 AM
+Bus	15 
+Ballycullen Road	8:05 AM
+Bus	15 
+Ballycullen Road	8:35 AM
+Bus	15 
+Ballycullen Road	9:07 AM
+Bus	15 
+Ballycullen Road	9:37 AM
+Bus	15 
+Ballycullen Road	9:57 AM
+Bus	15 
+Ballycullen Road	10:20 AM
+Bus	15 
+Ballycullen Road	10:40 AM
+Bus	15 
+Ballycullen Road	11:00 AM
+Bus	15 
+Ballycullen Road	11:20 AM
+Bus	15 
+Ballycullen Road	11:40 AM
+Bus	15 
+Ballycullen Road	12:00 PM
+Bus	15 
+Ballycullen Road	12:23 PM
+Bus	15 
+Ballycullen Road	12:43 PM
+Bus	15 
+Ballycullen Road	12:58 PM
+Bus	15 
+Ballycullen Road	1:13 PM
+Bus	15 
+Ballycullen Road	1:28 PM
+Bus	15 
+Ballycullen Road	1:43 PM
+Bus	15 
+Ballycullen Road	1:58 PM
+Bus	15 
+Ballycullen Road	2:13 PM
+Bus	15 
+Ballycullen Road	2:28 PM
+Bus	15 
+Ballycullen Road	2:43 PM
+Bus	15 
+Ballycullen Road	2:58 PM
+Bus	15 
+Ballycullen Road	3:13 PM
+Bus	15 
+Ballycullen Road	3:28 PM
+Bus	15 
+Ballycullen Road	3:43 PM
+Bus	15 
+Ballycullen Road	3:58 PM
+Bus	15 
+Ballycullen Road	4:13 PM
+Bus	15 
+Ballycullen Road	4:28 PM
+Bus	15 
+Ballycullen Road	4:43 PM
+Bus	15 
+Ballycullen Road	4:57 PM
+Bus	15 
+Ballycullen Road	5:12 PM
+Bus	15 
+Ballycullen Road	5:27 PM
+Bus	15 
+Ballycullen Road	5:42 PM
+Bus	15 
+Ballycullen Road	5:57 PM
+Bus	15 
+Ballycullen Road	6:12 PM
+Bus	15 
+Ballycullen Road	6:27 PM
+Bus	15 
+Ballycullen Road	6:42 PM
+Bus	15 
+Ballycullen Road	6:57 PM
+Bus	15 
+Ballycullen Road	7:08 PM
+Bus	15 
+Ballycullen Road	7:23 PM
+Bus	15 
+Ballycullen Road	7:38 PM
+Bus	15 
+Ballycullen Road	7:53 PM
+Bus	15 
+Ballycullen Road	8:08 PM
+Bus	15 
+Ballycullen Road	8:23 PM
+Bus	15 
+Ballycullen Road	8:38 PM
+Bus	15 
+Ballycullen Road	8:53 PM
+Bus	15 
+Ballycullen Road	8:59 PM
+Bus	15 
+Ballycullen Road	9:14 PM
+Bus	15 
+Ballycullen Road	9:29 PM
+Bus	15 
+Ballycullen Road	9:44 PM
+Bus	15 
+Ballycullen Road	9:59 PM
+Bus	15 
+Ballycullen Road	10:14 PM
+Bus	15 
+Ballycullen Road	10:29 PM
+Bus	15 
+Ballycullen Road	10:44 PM
+Bus	15 
+Ballycullen Road	10:59 PM
+Bus	15 
+Ballycullen Road	11:14 PM
+Bus	15 
+Ballycullen Road	11:29 PM
+Bus	15 
+Ballycullen Road	11:44 PM
+Bus	15 
+Ballycullen Road	11:59 PM

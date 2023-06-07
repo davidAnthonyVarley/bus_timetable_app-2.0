@@ -1,0 +1,228 @@
+Bus	15 
+Clongriffin	12:12 AM
+Bus	15 
+Clongriffin	12:40 AM
+Bus	15 
+Clongriffin	1:10 AM
+Bus	15 
+Clongriffin	1:40 AM
+Bus	15 
+Clongriffin	2:10 AM
+Bus	15 
+Clongriffin	2:40 AM
+Bus	15 
+Clongriffin	3:10 AM
+Bus	15 
+Clongriffin	3:42 AM
+Bus	15 
+Clongriffin	4:12 AM
+Bus	15 
+Clongriffin	4:42 AM
+Bus	15 
+Clongriffin	5:12 AM
+Bus	15 
+Clongriffin	5:44 AM
+Bus	15 
+Clongriffin	6:14 AM
+Bus	15 
+Clongriffin	6:24 AM
+Bus	15 
+Clongriffin	6:34 AM
+Bus	15 
+Clongriffin	6:50 AM
+Bus	15 
+Clongriffin	7:00 AM
+Bus	15 
+Clongriffin	7:10 AM
+Bus	15 
+Clongriffin	7:20 AM
+Bus	15 
+Clongriffin	7:30 AM
+Bus	15 
+Clongriffin	7:40 AM
+Bus	15 
+Clongriffin	7:48 AM
+Bus	15 
+Clongriffin	8:04 AM
+Bus	15 
+Clongriffin	8:10 AM
+Bus	15 
+Clongriffin	8:13 AM
+Bus	15 
+Clongriffin	8:16 AM
+Bus	15 
+Clongriffin	8:22 AM
+Bus	15 
+Clongriffin	8:31 AM
+Bus	15 
+Clongriffin	8:40 AM
+Bus	15 
+Clongriffin	8:49 AM
+Bus	15 
+Clongriffin	8:53 AM
+Bus	15 
+Clongriffin	8:56 AM
+Bus	15 
+Clongriffin	9:05 AM
+Bus	15 
+Clongriffin	9:14 AM
+Bus	15 
+Clongriffin	9:26 AM
+Bus	15 
+Clongriffin	9:36 AM
+Bus	15 
+Clongriffin	9:46 AM
+Bus	15 
+Clongriffin	9:50 AM
+Bus	15 
+Clongriffin	10:00 AM
+Bus	15 
+Clongriffin	10:10 AM
+Bus	15 
+Clongriffin	10:20 AM
+Bus	15 
+Clongriffin	10:30 AM
+Bus	15 
+Clongriffin	10:40 AM
+Bus	15 
+Clongriffin	10:50 AM
+Bus	15 
+Clongriffin	11:00 AM
+Bus	15 
+Clongriffin	11:10 AM
+Bus	15 
+Clongriffin	11:20 AM
+Bus	15 
+Clongriffin	11:30 AM
+Bus	15 
+Clongriffin	11:40 AM
+Bus	15 
+Clongriffin	11:49 AM
+Bus	15 
+Clongriffin	11:59 AM
+Bus	15 
+Clongriffin	12:09 PM
+Bus	15 
+Clongriffin	12:19 PM
+Bus	15 
+Clongriffin	12:29 PM
+Bus	15 
+Clongriffin	12:39 PM
+Bus	15 
+Clongriffin	12:49 PM
+Bus	15 
+Clongriffin	12:59 PM
+Bus	15 
+Clongriffin	1:09 PM
+Bus	15 
+Clongriffin	1:19 PM
+Bus	15 
+Clongriffin	1:29 PM
+Bus	15 
+Clongriffin	1:39 PM
+Bus	15 
+Clongriffin	1:49 PM
+Bus	15 
+Clongriffin	1:59 PM
+Bus	15 
+Clongriffin	2:09 PM
+Bus	15 
+Clongriffin	2:19 PM
+Bus	15 
+Clongriffin	2:29 PM
+Bus	15 
+Clongriffin	2:39 PM
+Bus	15 
+Clongriffin	2:49 PM
+Bus	15 
+Clongriffin	2:59 PM
+Bus	15 
+Clongriffin	3:09 PM
+Bus	15 
+Clongriffin	3:19 PM
+Bus	15 
+Clongriffin	3:29 PM
+Bus	15 
+Clongriffin	3:39 PM
+Bus	15 
+Clongriffin	3:49 PM
+Bus	15 
+Clongriffin	3:59 PM
+Bus	15 
+Clongriffin	4:09 PM
+Bus	15 
+Clongriffin	4:19 PM
+Bus	15 
+Clongriffin	4:29 PM
+Bus	15 
+Clongriffin	4:39 PM
+Bus	15 
+Clongriffin	4:52 PM
+Bus	15 
+Clongriffin	5:02 PM
+Bus	15 
+Clongriffin	5:12 PM
+Bus	15 
+Clongriffin	5:22 PM
+Bus	15 
+Clongriffin	5:32 PM
+Bus	15 
+Clongriffin	5:42 PM
+Bus	15 
+Clongriffin	5:51 PM
+Bus	15 
+Clongriffin	6:01 PM
+Bus	15 
+Clongriffin	6:11 PM
+Bus	15 
+Clongriffin	6:21 PM
+Bus	15 
+Clongriffin	6:31 PM
+Bus	15 
+Clongriffin	6:41 PM
+Bus	15 
+Clongriffin	6:49 PM
+Bus	15 
+Clongriffin	6:59 PM
+Bus	15 
+Clongriffin	7:09 PM
+Bus	15 
+Clongriffin	7:19 PM
+Bus	15 
+Clongriffin	7:34 PM
+Bus	15 
+Clongriffin	7:49 PM
+Bus	15 
+Clongriffin	8:04 PM
+Bus	15 
+Clongriffin	8:19 PM
+Bus	15 
+Clongriffin	8:34 PM
+Bus	15 
+Clongriffin	8:42 PM
+Bus	15 
+Clongriffin	8:57 PM
+Bus	15 
+Clongriffin	9:12 PM
+Bus	15 
+Clongriffin	9:27 PM
+Bus	15 
+Clongriffin	9:42 PM
+Bus	15 
+Clongriffin	9:57 PM
+Bus	15 
+Clongriffin	10:12 PM
+Bus	15 
+Clongriffin	10:27 PM
+Bus	15 
+Clongriffin	10:42 PM
+Bus	15 
+Clongriffin	10:57 PM
+Bus	15 
+Clongriffin	11:12 PM
+Bus	15 
+Clongriffin	11:27 PM
+Bus	15 
+Clongriffin	11:42 PM
+Bus	15 
+Clongriffin	11:57 PM

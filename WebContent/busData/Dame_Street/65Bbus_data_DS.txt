@@ -1,0 +1,30 @@
+Bus	65B 
+Citywest	9:02 AM
+Bus	65B 
+Citywest	10:03 AM
+Bus	65B 
+Citywest	11:03 AM
+Bus	65B 
+Citywest	12:04 PM
+Bus	65B 
+Citywest	1:04 PM
+Bus	65B 
+Citywest	2:04 PM
+Bus	65B 
+Citywest	3:03 PM
+Bus	65B 
+Citywest	4:04 PM
+Bus	65B 
+Citywest	5:04 PM
+Bus	65B 
+Citywest	6:04 PM
+Bus	65B 
+Citywest	7:04 PM
+Bus	65B 
+Citywest	8:04 PM
+Bus	65B 
+Citywest	9:03 PM
+Bus	65B 
+Citywest	10:33 PM
+Bus	65B 
+Citywest	11:33 PM

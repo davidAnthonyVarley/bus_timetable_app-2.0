@@ -1,0 +1,30 @@
+Bus	65B 
+Poolbeg St	9:01 AM
+Bus	65B 
+Poolbeg St	10:03 AM
+Bus	65B 
+Poolbeg St	11:03 AM
+Bus	65B 
+Poolbeg St	12:06 PM
+Bus	65B 
+Poolbeg St	1:06 PM
+Bus	65B 
+Poolbeg St	2:06 PM
+Bus	65B 
+Poolbeg St	3:10 PM
+Bus	65B 
+Poolbeg St	4:07 PM
+Bus	65B 
+Poolbeg St	5:08 PM
+Bus	65B 
+Poolbeg St	6:03 PM
+Bus	65B 
+Poolbeg St	7:01 PM
+Bus	65B 
+Poolbeg St	8:01 PM
+Bus	65B 
+Poolbeg St	9:40 PM
+Bus	65B 
+Poolbeg St	10:40 PM
+Bus	65B 
+Poolbeg St	11:55 PM

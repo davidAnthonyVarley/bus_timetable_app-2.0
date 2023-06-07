@@ -1,0 +1,28 @@
+Bus	49 
+The Square	10:31 AM
+Bus	49 
+The Square	11:31 AM
+Bus	49 
+The Square	12:31 PM
+Bus	49 
+The Square	1:31 PM
+Bus	49 
+The Square	2:31 PM
+Bus	49 
+The Square	3:31 PM
+Bus	49 
+The Square	4:31 PM
+Bus	49 
+The Square	5:31 PM
+Bus	49 
+The Square	6:31 PM
+Bus	49 
+The Square	7:31 PM
+Bus	49 
+The Square	8:31 PM
+Bus	49 
+The Square	9:31 PM
+Bus	49 
+The Square	10:31 PM
+Bus	49 
+The Square	11:31 PM

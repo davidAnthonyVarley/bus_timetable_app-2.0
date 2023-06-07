@@ -1,0 +1,20 @@
+Bus	65 
+Blessington	8:02 AM
+Bus	65 
+Ballymore	9:32 AM
+Bus	65 
+Ballymore	11:34 AM
+Bus	65 
+Blessington	1:33 PM
+Bus	65 
+Ballymore	3:34 PM
+Bus	65 
+Ballymore	5:33 PM
+Bus	65 
+Blessington	6:33 PM
+Bus	65 
+Ballymore	8:33 PM
+Bus	65 
+Ballymore	9:33 PM
+Bus	65 
+Blessington	11:18 PM

@@ -1,0 +1,64 @@
+Bus	15A 
+Merrion Square	8:25 AM
+Bus	15A 
+Merrion Square	8:55 AM
+Bus	15A 
+Merrion Square	9:25 AM
+Bus	15A 
+Merrion Square	9:56 AM
+Bus	15A 
+Merrion Square	10:11 AM
+Bus	15A 
+Merrion Square	10:41 AM
+Bus	15A 
+Merrion Square	11:11 AM
+Bus	15A 
+Merrion Square	11:46 AM
+Bus	15A 
+Merrion Square	12:16 PM
+Bus	15A 
+Merrion Square	12:46 PM
+Bus	15A 
+Merrion Square	1:16 PM
+Bus	15A 
+Merrion Square	1:46 PM
+Bus	15A 
+Merrion Square	2:16 PM
+Bus	15A 
+Merrion Square	2:43 PM
+Bus	15A 
+Merrion Square	3:13 PM
+Bus	15A 
+Merrion Square	3:44 PM
+Bus	15A 
+Merrion Square	4:14 PM
+Bus	15A 
+Merrion Square	4:43 PM
+Bus	15A 
+Merrion Square	5:13 PM
+Bus	15A 
+Merrion Square	5:41 PM
+Bus	15A 
+Merrion Square	6:11 PM
+Bus	15A 
+Merrion Square	6:40 PM
+Bus	15A 
+Merrion Square	7:10 PM
+Bus	15A 
+Merrion Square	7:40 PM
+Bus	15A 
+Merrion Square	8:10 PM
+Bus	15A 
+Merrion Square	8:38 PM
+Bus	15A 
+Merrion Square	8:53 PM
+Bus	15A 
+Merrion Square	9:23 PM
+Bus	15A 
+Merrion Square	9:53 PM
+Bus	15A 
+Merrion Square	10:23 PM
+Bus	15A 
+Merrion Square	10:53 PM
+Bus	15A 
+Merrion Square	11:23 PM

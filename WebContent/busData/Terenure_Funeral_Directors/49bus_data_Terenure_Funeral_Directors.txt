@@ -1,0 +1,30 @@
+Bus	49 
+Pearse St	10:00 AM
+Bus	49 
+Pearse St	11:02 AM
+Bus	49 
+Pearse St	12:02 PM
+Bus	49 
+Pearse St	1:03 PM
+Bus	49 
+Pearse St	2:03 PM
+Bus	49 
+Pearse St	3:03 PM
+Bus	49 
+Pearse St	4:02 PM
+Bus	49 
+Pearse St	5:02 PM
+Bus	49 
+Pearse St	6:00 PM
+Bus	49 
+Pearse St	7:00 PM
+Bus	49 
+Pearse St	7:58 PM
+Bus	49 
+Pearse St	8:58 PM
+Bus	49 
+Pearse St	9:52 PM
+Bus	49 
+Pearse St	10:52 PM
+Bus	49 
+Pearse St	11:52 PM

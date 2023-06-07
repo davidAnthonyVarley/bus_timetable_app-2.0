@@ -1,0 +1,60 @@
+Bus	15A 
+Limekiln Ave	9:07 AM
+Bus	15A 
+Limekiln Ave	9:39 AM
+Bus	15A 
+Limekiln Ave	10:09 AM
+Bus	15A 
+Limekiln Ave	10:39 AM
+Bus	15A 
+Limekiln Ave	11:09 AM
+Bus	15A 
+Limekiln Ave	11:39 AM
+Bus	15A 
+Limekiln Ave	12:09 PM
+Bus	15A 
+Limekiln Ave	12:39 PM
+Bus	15A 
+Limekiln Ave	1:09 PM
+Bus	15A 
+Limekiln Ave	1:39 PM
+Bus	15A 
+Limekiln Ave	2:09 PM
+Bus	15A 
+Limekiln Ave	2:40 PM
+Bus	15A 
+Limekiln Ave	3:10 PM
+Bus	15A 
+Limekiln Ave	3:39 PM
+Bus	15A 
+Limekiln Ave	4:09 PM
+Bus	15A 
+Limekiln Ave	4:42 PM
+Bus	15A 
+Limekiln Ave	5:12 PM
+Bus	15A 
+Limekiln Ave	5:41 PM
+Bus	15A 
+Limekiln Ave	6:11 PM
+Bus	15A 
+Limekiln Ave	6:40 PM
+Bus	15A 
+Limekiln Ave	7:10 PM
+Bus	15A 
+Limekiln Ave	7:40 PM
+Bus	15A 
+Limekiln Ave	8:10 PM
+Bus	15A 
+Limekiln Ave	8:38 PM
+Bus	15A 
+Limekiln Ave	9:08 PM
+Bus	15A 
+Limekiln Ave	9:38 PM
+Bus	15A 
+Limekiln Ave	10:08 PM
+Bus	15A 
+Limekiln Ave	10:38 PM
+Bus	15A 
+Limekiln Ave	11:08 PM
+Bus	15A 
+Limekiln Ave	11:38 PM

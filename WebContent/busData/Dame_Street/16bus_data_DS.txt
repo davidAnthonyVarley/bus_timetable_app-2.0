@@ -1,0 +1,120 @@
+Bus	16 
+Ballinteer	8:35 AM
+Bus	16 
+Ballinteer	8:50 AM
+Bus	16 
+Ballinteer	9:11 AM
+Bus	16 
+Ballinteer	9:26 AM
+Bus	16 
+Ballinteer	9:41 AM
+Bus	16 
+Ballinteer	9:56 AM
+Bus	16 
+Ballinteer	10:15 AM
+Bus	16 
+Ballinteer	10:30 AM
+Bus	16 
+Ballinteer	10:45 AM
+Bus	16 
+Ballinteer	11:00 AM
+Bus	16 
+Ballinteer	11:15 AM
+Bus	16 
+Ballinteer	11:30 AM
+Bus	16 
+Ballinteer	11:45 AM
+Bus	16 
+Ballinteer	12:00 PM
+Bus	16 
+Ballinteer	12:19 PM
+Bus	16 
+Ballinteer	12:34 PM
+Bus	16 
+Ballinteer	12:49 PM
+Bus	16 
+Ballinteer	1:04 PM
+Bus	16 
+Ballinteer	1:19 PM
+Bus	16 
+Ballinteer	1:34 PM
+Bus	16 
+Ballinteer	1:49 PM
+Bus	16 
+Ballinteer	2:04 PM
+Bus	16 
+Ballinteer	2:19 PM
+Bus	16 
+Ballinteer	2:34 PM
+Bus	16 
+Ballinteer	2:49 PM
+Bus	16 
+Ballinteer	3:04 PM
+Bus	16 
+Ballinteer	3:22 PM
+Bus	16 
+Ballinteer	3:37 PM
+Bus	16 
+Ballinteer	3:52 PM
+Bus	16 
+Ballinteer	4:07 PM
+Bus	16 
+Ballinteer	4:20 PM
+Bus	16 
+Ballinteer	4:35 PM
+Bus	16 
+Ballinteer	4:50 PM
+Bus	16 
+Ballinteer	5:05 PM
+Bus	16 
+Ballinteer	5:17 PM
+Bus	16 
+Ballinteer	5:32 PM
+Bus	16 
+Ballinteer	5:47 PM
+Bus	16 
+Ballinteer	6:02 PM
+Bus	16 
+Ballinteer	6:17 PM
+Bus	16 
+Ballinteer	6:32 PM
+Bus	16 
+Ballinteer	6:47 PM
+Bus	16 
+Ballinteer	7:02 PM
+Bus	16 
+Ballinteer	7:12 PM
+Bus	16 
+Ballinteer	7:27 PM
+Bus	16 
+Ballinteer	7:42 PM
+Bus	16 
+Ballinteer	7:57 PM
+Bus	16 
+Ballinteer	8:12 PM
+Bus	16 
+Ballinteer	8:27 PM
+Bus	16 
+Ballinteer	8:42 PM
+Bus	16 
+Ballinteer	8:57 PM
+Bus	16 
+Ballinteer	9:06 PM
+Bus	16 
+Ballinteer	9:21 PM
+Bus	16 
+Ballinteer	9:36 PM
+Bus	16 
+Ballinteer	9:51 PM
+Bus	16 
+Ballinteer	10:06 PM
+Bus	16 
+Ballinteer	10:21 PM
+Bus	16 
+Ballinteer	10:36 PM
+Bus	16 
+Ballinteer	10:51 PM
+Bus	16 
+Ballinteer	11:06 PM
+Bus	16 
+Ballinteer	11:21 PM
