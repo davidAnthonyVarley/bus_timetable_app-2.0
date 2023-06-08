@@ -24,14 +24,17 @@ body {
 }
 
 main {
-    background-color: rgb(208, 207, 207);
+    background-color: rgb(224, 219, 219);
 }
 
 h1 {
-    background-color: rgb(208, 207, 207);
+    background-color:  rgb(233, 217, 217);
     font-family: "Roboto", sans-serif;
     text-align: center;
     font-weight: bolder;
+
+    border: solid 2px black;
+    line-height: 3.8rem;
 
 }
 
@@ -39,8 +42,15 @@ summary {
     font-family: "Roboto", sans-serif;
     font-size: 1.5rem;
     border: 2px outset black;
+
+    background-color: rgb(233, 217, 217);
     padding: 1.5rem;
     font-weight: bold;
+
+}
+
+aside {
+    background-color:  rgb(117, 197, 117);
 }
 
 form {
@@ -52,18 +62,51 @@ ul {
 }
 
 li {
+    background-color: rgb(233, 217, 217);
     border: 2px dashed black;
     padding: 1.5rem;
+    
+}
+
+
+
+a {
+    font-weight: bold;
+}
+
+a:visited {
+    /* color: rgba(240, 4, 4, 0.382); */
+    color: crimson;
+}
+
+a:hover {
+    color: rgb(255, 132, 0);
 }
 
 .information {
 	border: 1px outset black;
-    background-color: whitesmoke;
+    font-family: Helvetica, serif;
+    padding: 0.5rem;
+    
+    margin-top: 0;
+    margin-bottom:0;
+    background-color: rgb(233, 217, 217);
     color: black;
 
 }
 
-.information h2 {
+h2 {
     font-weight: bold;
+    width: 5%;
+    line-height: 0.8rem;
+    text-align: center;
 }
 
+footer center a {
+	background-color: #24A0ED;
+	color: whitesmoke;
+	margin: 2rem;
+	padding: 1rem;
+	text-align: center;
+	text-decoration: none;
+}
