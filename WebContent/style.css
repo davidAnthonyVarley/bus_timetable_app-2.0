@@ -104,9 +104,22 @@ h2 {
 
 footer center a {
 	background-color: #24A0ED;
-	color: whitesmoke;
 	margin: 2rem;
 	padding: 1rem;
 	text-align: center;
 	text-decoration: none;
+
+    color: rgb(255, 255, 255);
+    border-radius: 6%;
 }
+
+footer center a:visited {
+    color: rgb(255, 255, 255);
+}
+
+
+
+
+
+
+
