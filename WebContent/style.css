@@ -6,7 +6,7 @@ html {
     font-family: Arial;
     color: black;
     /* background-color: rgb(190, 186, 186); */
-    background-color: white;/* rgb(233, 217, 217); */
+    background-color:/* rgb(128, 128, 128); rgb(233, 217, 217) */ white;
 }
 
 :root {
@@ -32,16 +32,16 @@ body {
     border-left: 2px solid black;
     border-right: 2px solid black;
 
-    background-color: var(--BODY-COLOR);
+    background-color:  rgb(117, 197, 117);
 
 }
 
 main {
-    background-color: rgb(224, 219, 219);
+    background-color: rgb(224, 219, 219)/*rgb(88, 88, 88);*/;
 }
 
 h1 {
-    background-color:  var(--INFO-BOX-COLOR);
+    background-color:  /* rgb(128, 128, 128); rgb(233, 217, 217) */ white;
     font-family: "Roboto", sans-serif;
     text-align: center;
     font-weight: bolder;
@@ -51,12 +51,13 @@ h1 {
 
 }
 
+
 summary {
     font-family: "Roboto", sans-serif;
     font-size: 1.5rem;
     border: 2px outset black;
 
-    background-color:  var(--INFO-BOX-COLOR);
+    background-color:  white;
     padding: 1.5rem;
     font-weight: bold;
 
@@ -78,9 +79,9 @@ ul {
 }
 
 ul li {
-    background-color: var(--BODY-COLOR);
+    background-color: /* rgb(128, 128, 128); rgb(233, 217, 217) */ white;
     color: var(--BODY-COLOR);
-    border: none;
+    border: 1px solid black;
     padding: 1.5rem;
 }
 
@@ -109,13 +110,13 @@ aside ul:hover {
     animation-iteration-count: var(--animation-iteration-count);
     animation-direction: var(--animation-direction); */
 
-    /* animation-duration: 1.5s;
+     animation-duration: 1.5s;
     animation-delay: 0.5s;
     animation-timing-function: linear;
 
     animation-iteration-count: 1;
     animation-direction: normal;
-    animation-fill-mode: forwards; */
+    animation-fill-mode: forwards; 
 }
 
 aside:hover ul li {
@@ -182,12 +183,12 @@ aside ul:hover li a {
     }
     66% {
         transform: scaleY(1);
-        background-color: var(--INFO-BOX-COLOR);
+        background-color: white; /*var(--INFO-BOX-COLOR);*/
         color: #000;
         border: 1px solid #000;
     }
     100% {
-        background-color: var(--INFO-BOX-COLOR);
+        /* background-color: var(--INFO-BOX-COLOR);*/
         color: #000;
         border: 1px solid #000;
     }
@@ -195,7 +196,7 @@ aside ul:hover li a {
 
 @keyframes link {
     0% {
-      color: var(--INFO-BOX-COLOR);
+      /* color: var(--INFO-BOX-COLOR);*/
     }
     33% {
       color: #24A0ED;
@@ -229,7 +230,8 @@ a:hover {
     
     margin-top: 0;
     margin-bottom:0;
-    background-color: rgb(233, 217, 217);
+    /*background-color: rgb(233, 217, 217);*/
+    background-color: white;
     color: black;
 
 }
